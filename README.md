@@ -3,6 +3,11 @@
  <img alt="Languages" src="https://img.shields.io/badge/Languages-C | Assembly-orange"/>
  <img alt="Status" src="https://img.shields.io/badge/development-completed-green"/>
 </p>
+
+<p align="center">
+  <img src="Gif/pongGame.gif" alt="animated" />
+</p>
+
 Extra points projects for the course of "Architetture dei Sistemi di Elaborazione" (Computer Architectures) at Politecnico di Torino.
 
 The project consists in the implementation on an embedded platform of the popular game "pong game". This version runs on the NXP LandTiger Board equipped with the LPC1768 microcontroller.  

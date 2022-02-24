@@ -1,0 +1,6 @@
+-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork 
+-I.\RTE\_Target_1
+-IC:\Users\Luca\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include
+-IC:\Users\Luca\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.0\Device\Include
+-D__UVISION_VERSION="536" -D_RTE_ -DLPC175x_6x -D_RTE_ -DSIMULATOR
+-o .\game.c.o --omf_browse .\game.c.crf --depend .\game.c.d "game\game.c.txt"
